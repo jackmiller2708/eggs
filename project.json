@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.3",
+  "name": "django-finds-eggs",
+  "id": "75d5f8f1-6e06-44e0-a532-43bd7960a1aa",
+  "isNew": false
+}
